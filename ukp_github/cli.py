@@ -1,4 +1,4 @@
-"""CLI interface for template_workshop project.
+"""CLI interface for ukp_github project.
 
 Be creative! do whatever you want!
 
@@ -15,7 +15,7 @@ import argparse
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m template_workshop` and `$ template_workshop `.
+    `python -m ukp_github` and `$ ukp_github `.
 
     This is your program's entry point.
 
